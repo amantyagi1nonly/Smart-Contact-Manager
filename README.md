@@ -1,4 +1,4 @@
-# Smart-Contact-Manager
+# Smart Contact Manager
 <h3> Features of Smart Contact Manager </h3>
 <ol>
 <li>User signup with email and password</li>
