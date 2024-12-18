@@ -39,3 +39,16 @@
 <li>Flowbite components</li> 
 <li>PDF/excel tools for generating reports</li>  
 </ol>  
+
+<h3>Dependency to add in project</h3>
+<li>web</li>
+<li>thymeleaf</li>
+<li>data jpa</li>
+<li>validation</li>
+<li>security</li>
+<li>outh2-client</li>
+<li>modelmapper</li>
+<li>starter mail</li>
+<li>lombok</li>
+<li>devtools</li>
+<li>mysql connectorj</li>
