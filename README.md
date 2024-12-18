@@ -41,6 +41,7 @@
 </ol>  
 
 <h3>Dependency to add in project</h3>
+<ol>
 <li>web</li>
 <li>thymeleaf</li>
 <li>data jpa</li>
@@ -52,3 +53,4 @@
 <li>lombok</li>
 <li>devtools</li>
 <li>mysql connectorj</li>
+</ol>  
