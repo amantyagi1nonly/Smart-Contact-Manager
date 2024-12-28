@@ -54,3 +54,8 @@
 <li>devtools</li>
 <li>mysql connectorj</li>
 </ol>  
+
+<h3>IDE Used</h3>
+<ol>
+<li>Intellij Free version</li>
+</ol>  
